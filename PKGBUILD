@@ -3,8 +3,8 @@ arch=(i686 x86_64)
 pkgver=0.3.2
 pkgrel=1
 pkgdesc="Tiny collection of programs used for ECDSA (keygen, sign, verify)"
-makedepends=('cmake' 'libuecc>=3')
-depends=('glibc')
+makedepends=('cmake')
+depends=('glibc' 'libuecc>=3')
 url="https://github.com/tcatm/ecdsautils"
 license=('BSD')
 
