@@ -1,3 +1,6 @@
+# Maintainer: Robinhuett <aur at tripp dot xyz>
+# Contributor: Neal <neal.oakey at oakey-dev dot de>
+
 pkgname=ecdsautils
 arch=(i686 x86_64)
 pkgver=0.4.0
