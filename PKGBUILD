@@ -8,7 +8,7 @@ pkgrel=1
 _commit=07538893fb6c2a9539678c45f9dbbf1e4f222b46
 pkgdesc="Tiny collection of programs used for ECDSA (keygen, sign, verify)"
 makedepends=('cmake')
-depends=('glibc' 'libuecc>=3')
+depends=('glibc' 'libuecc>=6')
 url="https://github.com/tcatm/ecdsautils"
 license=('BSD')
 
